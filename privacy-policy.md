@@ -1,4 +1,4 @@
-**# Privacy Policy for LLM for Sheet**
+# Privacy Policy for LLM for Sheet
 
 ## 1. Introduction  
 This Privacy Policy explains how we collect, use, and protect your information when you use the "LLM for Sheet" add-on (the "Service"). By using the Service, you agree to the terms outlined in this policy.
