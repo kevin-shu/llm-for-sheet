@@ -1,4 +1,4 @@
-**# Terms of Service for LLM for Sheet**
+# Terms of Service for LLM for Sheet
 
 LLM for Sheet is a Google Sheets add-on that provides custom functions to integrate large language models (LLMs) directly into your spreadsheets, empowering your data with AI-driven insights.
 
